@@ -3,6 +3,9 @@ import { HashRouter, Route, Routes, Navigate } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { CSpinner, useColorModes } from '@coreui/react';
 import './scss/style.scss';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import 'bootstrap/dist/js/bootstrap.bundle.min.js';
+
 
 // import ProtectedRoute from './maxios/proRoute';
 // import CreateJob from './views/base/creatJob/creatJobs';

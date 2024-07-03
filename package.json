@@ -31,6 +31,7 @@
     "@mui/material": "^5.15.18",
     "@popperjs/core": "^2.11.8",
     "axios": "^1.7.2",
+    "bootstrap": "^5.3.3",
     "chart.js": "^4.4.2",
     "classnames": "^2.5.1",
     "core-js": "^3.36.1",
